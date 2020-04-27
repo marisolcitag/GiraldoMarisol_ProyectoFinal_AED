@@ -1,1 +1,8 @@
-
+#Primera Entrega
+La estructura Grafo completamente analizada, diseñada, implementada y probada, más una explicación detallada del problema a solucionar. 
+Su entrega debe incluir:
+- Informe del seguimiento del Método de la ingeniería sobre el problema que están abordando.
+- Especificación del TAD Grafo. Nombre, representación, invariante, operaciones y la especificación de cada una de las operaciones en términos de entrada y salida (tal como se revisó en la Unidad 2 del curso).
+- El problema a solucionar:
+  Enunciado suficientemente claro de la situación problemática que solucionarán.
+  Especificación de Requerimientos Funcionales del programa que darán solución al problema.
