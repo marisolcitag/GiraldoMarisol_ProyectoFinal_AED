@@ -1,0 +1,8 @@
+#Segunda Entrega
+1. Diseño de Diagrama de Clases del TAD Grafo incluyendo las dos implementaciones y las mejores prácticas de diseño (no olvidar desacoplamiento y generics).
+2. Diseño de pruebas unitarias:
+    a. De las operaciones estructurales del grafo (agregar, eliminar y consultar).
+    b. De los algoritmos vistos en clase.
+3. Implementación completa de:
+    a. Los grafos incluyendo los algoritmos vistos en clase.
+    b. Las pruebas unitarias automáticas diseñadas sobre los grafo
